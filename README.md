@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GeorgiTop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning solving problems at https://www.hackerrank.com/georgitoporchev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently solving problems at https://www.hackerrank.com/georgitoporchev
+- 📫 How to reach me https://www.linkedin.com/in/georgi-toporchev/
 
 <!---
 GeorgiTop/GeorgiTop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
